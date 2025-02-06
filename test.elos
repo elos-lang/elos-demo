@@ -1,0 +1,31 @@
+include "style"
+
+def width 650
+def edge 20
+def vgap 15
+def hgap 15
+def preview "ELOS Language"
+
+body {
+	include "header"
+	group {
+		cols
+			col {
+				include "card"
+			}
+			col {
+				include "card"
+			}
+		line
+		cols
+			col {
+				include "card"
+			}
+			col {
+				include "card"
+			}
+			col {
+				include "card"
+			}
+	}
+}

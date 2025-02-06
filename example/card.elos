@@ -1,0 +1,10 @@
+img "https://placehold.co/600x400" -> "http://elos-lang.com"
+txt.h "Welcome to ELOS"
+txt "
+	Curabitur vel interdum nisl. Cras finibus velit non tellus sagittis, quis porta est
+	scelerisque. Suspendisse nibh justo, iaculis eget urna at, blandit bibendum metus.
+	Etiam tellus massa, dictum at vehicula vel, tempor vel dolor. Nunc rutrum dignissim
+	nisi eu scelerisque. Suspendisse ac nulla lorem. Ut id nibh nec purus tincidunt facilisis.
+	Pellentesque viverra pretium erat in ullamcorper.
+"
+btn "Ontdek meer" -> "https://www.google.be"

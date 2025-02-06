@@ -1,0 +1,20 @@
+style txt.h {
+	size 18
+	color "#9750a1"
+}
+
+style txt.hero {
+	size 32
+	color "#9750a1"
+}
+
+style btn {
+	bgcolor "#9750a1"
+	size 14
+	padding 15
+}
+
+style group {
+	bgcolor "#f0f0f0"
+	padding 15
+}

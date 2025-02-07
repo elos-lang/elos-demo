@@ -1,3 +1,3 @@
-import html from '../test.elos';
+import html from '../example/index.elos';
 
 document.body.innerHTML = html;

@@ -16,6 +16,6 @@
     "vite": "^6.1.0"
   },
   "devDependencies": {
-    "vite-plugin-elos": "^1.9.0"
+    "vite-plugin-elos": "^1.10.0"
   }
 }

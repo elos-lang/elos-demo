@@ -1,5 +1,5 @@
-def width 650
-def edge 0
-def vgap 0
-def hgap 25
-def preview "ELOS Language"
+def $width 650
+def $edge 0
+def $vgap 15
+def $hgap 25
+def $preview "ELOS Language"

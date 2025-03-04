@@ -3,11 +3,12 @@ include "includes/style"
 
 body {
 	include "includes/header"
-	cols
+	cols {
 		col {
 			include "includes/card"
 		}
 		col {
 			include "includes/card"
 		}
+	}
 }
